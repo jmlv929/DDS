@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/72721/Desktop/test/project_3/project_3.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/72721/Desktop/test/project_3/project_3.srcs/sources_1/new/DDS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/72721/Desktop/test/project_3/project_3.srcs/sim_1/new/DDS_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DDS_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/72721/Desktop/test/project_3/project_3.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
